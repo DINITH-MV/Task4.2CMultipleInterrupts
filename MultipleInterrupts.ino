@@ -1,5 +1,5 @@
-#define BTN_PIN 3 // for interrupt
-#define PIR_PIN 2 // for interrupt
+#define BTN_PIN 9 // for interrupt
+#define PIR_PIN 10 // for interrupt
 #define LED_PIN 11
 
 bool ledState = false; 
